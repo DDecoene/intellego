@@ -160,3 +160,58 @@ Vocabulary format: `latin — english (part of speech)`.
 - **Cumulative vocabulary (65):** pistrīna, pānis, Gaius, est, hīc, Tullia, Lucius, Aelia, mater, pater, sunt, puer, puella, canis, Argus, ibi, fornāx, mēnsa, facit, farinam, aquam, portat, Felix, coquit, pānem, in, calida, bona, faciō, facis, vendō, vendis, vendit, ūnus, duo, multī, pānēs, quis, quid, -ne, vir, fēmina, venit, clāmat, ad, ex, intrat, exit, Marcus, mēnsam, inquit, dō, dat, grātiās, dūos, pēcūniam, habet, vult, volō, cupit, cupiō, bonum, emere, emit, nōn
 - **Comprehension target:** 78%
 - **Story beat:** Marcus vult pānem bonum. "Cupiō dūos pānēs," inquit Marcus. The woman also comes to the counter. She too wants bread. "Volō pānem," inquit fēmina. She has money and buys one loaf. Argus is here — Argus cupit pānem! "Nōn," inquit Gaius. Lucius and Aelia clāmant: "Multī pānēs sunt — bona pistrīna est!"
+
+## Section IV — A Problem in the Shop (Intermediate)
+
+*Story arc: something goes wrong.*
+
+### Chapter 13 — Big and small
+- **Grammar concept:** Describing things — adjectives agree in number (singular vs plural).
+- **New vocabulary (6):**
+  - magnus — big (adjective, nom. sg. masc.)
+  - magna — big (adjective, nom. sg. fem.)
+  - magnī — big (adjective, nom. pl. masc.)
+  - parvus — small (adjective, nom. sg. masc.)
+  - parva — small (adjective, nom. sg. fem.)
+  - parvī — small (adjective, nom. pl. masc.)
+- **Cumulative vocabulary (71):** pistrīna, pānis, Gaius, est, hīc, Tullia, Lucius, Aelia, mater, pater, sunt, puer, puella, canis, Argus, ibi, fornāx, mēnsa, facit, farinam, aquam, portat, Felix, coquit, pānem, in, calida, bona, faciō, facis, vendō, vendis, vendit, ūnus, duo, multī, pānēs, quis, quid, -ne, vir, fēmina, venit, clāmat, ad, ex, intrat, exit, Marcus, mēnsam, inquit, dō, dat, grātiās, dūos, pēcūniam, habet, vult, volō, cupit, cupiō, bonum, emere, emit, nōn, magnus, magna, magnī, parvus, parva, parvī
+- **Comprehension target:** 80%
+- **Story beat:** Pistrīna magna est. Fornāx magna est. Mēnsa parva est. Pānēs magnī sunt. Ūnus pānis parvus est.
+
+### Chapter 14 — Good, bad, hot, cold
+- **Grammar concept:** More adjectives — opposites (good/bad, hot/cold) and matching the noun.
+- **New vocabulary (6):**
+  - bonus — good (adjective, nom. sg. masc.)
+  - malus — bad (adjective, nom. sg. masc.)
+  - mala — bad (adjective, nom. sg. fem.)
+  - malum — bad (adjective, acc. sg. masc.)
+  - frīgida — cold (adjective, nom. sg. fem.)
+  - calidus — hot (adjective, nom. sg. masc.)
+- **Cumulative vocabulary (77):** pistrīna, pānis, Gaius, est, hīc, Tullia, Lucius, Aelia, mater, pater, sunt, puer, puella, canis, Argus, ibi, fornāx, mēnsa, facit, farinam, aquam, portat, Felix, coquit, pānem, in, calida, bona, faciō, facis, vendō, vendis, vendit, ūnus, duo, multī, pānēs, quis, quid, -ne, vir, fēmina, venit, clāmat, ad, ex, intrat, exit, Marcus, mēnsam, inquit, dō, dat, grātiās, dūos, pēcūniam, habet, vult, volō, cupit, cupiō, bonum, emere, emit, nōn, magnus, magna, magnī, parvus, parva, parvī, bonus, malus, mala, malum, frīgida, calidus
+- **Comprehension target:** 78%
+- **Story beat:** Fornāx calida est. Aqua frīgida est. Pānis bonus est. Sed hodiē farina mala est — and bad flour makes bad bread.
+
+### Chapter 15 — What happened
+- **Grammar concept:** Talking about what happened — the simple past (perfect) of familiar verbs.
+- **New vocabulary (6):**
+  - fēcit — made (verb, perfect 3rd sg.)
+  - coxit — baked (verb, perfect 3rd sg.)
+  - portāvit — carried (verb, perfect 3rd sg.)
+  - clāmāvit — shouted (verb, perfect 3rd sg.)
+  - vēndidit — sold (verb, perfect 3rd sg.)
+  - sed — but (conjunction)
+- **Cumulative vocabulary (83):** pistrīna, pānis, Gaius, est, hīc, Tullia, Lucius, Aelia, mater, pater, sunt, puer, puella, canis, Argus, ibi, fornāx, mēnsa, facit, farinam, aquam, portat, Felix, coquit, pānem, in, calida, bona, faciō, facis, vendō, vendis, vendit, ūnus, duo, multī, pānēs, quis, quid, -ne, vir, fēmina, venit, clāmat, ad, ex, intrat, exit, Marcus, mēnsam, inquit, dō, dat, grātiās, dūos, pēcūniam, habet, vult, volō, cupit, cupiō, bonum, emere, emit, nōn, magnus, magna, magnī, parvus, parva, parvī, bonus, malus, mala, malum, frīgida, calidus, fēcit, coxit, portāvit, clāmāvit, vēndidit, sed
+- **Comprehension target:** 76%
+- **Story beat:** Felix farinam portāvit. Gaius pānem fēcit. Fornāx pānem coxit. Sed pānis malus est! Tullia clāmāvit: "Pānis malus est!"
+
+### Chapter 16 — No one, nothing
+- **Grammar concept:** Negation — "no one" (*nēmō*) and "nothing" (*nihil*).
+- **New vocabulary (5):**
+  - nēmō — no one (pronoun)
+  - nihil — nothing (pronoun)
+  - iterum — again (adverb)
+  - nunc — now (adverb)
+  - laetus — happy (adjective, nom. sg. masc.)
+- **Cumulative vocabulary (88):** pistrīna, pānis, Gaius, est, hīc, Tullia, Lucius, Aelia, mater, pater, sunt, puer, puella, canis, Argus, ibi, fornāx, mēnsa, facit, farinam, aquam, portat, Felix, coquit, pānem, in, calida, bona, faciō, facis, vendō, vendis, vendit, ūnus, duo, multī, pānēs, quis, quid, -ne, vir, fēmina, venit, clāmat, ad, ex, intrat, exit, Marcus, mēnsam, inquit, dō, dat, grātiās, dūos, pēcūniam, habet, vult, volō, cupit, cupiō, bonum, emere, emit, nōn, magnus, magna, magnī, parvus, parva, parvī, bonus, malus, mala, malum, frīgida, calidus, fēcit, coxit, portāvit, clāmāvit, vēndidit, sed, nēmō, nihil, iterum, nunc, laetus
+- **Comprehension target:** 76%
+- **Story beat:** Nēmō pānem malum emit. Nēmō pānem malum cupit. Gaius pānem iterum facit. Fornāx pānem iterum coxit. Nunc pānis bonus est! Marcus pānem bonum emit. Gaius laetus est.
