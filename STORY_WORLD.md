@@ -19,6 +19,11 @@ the anchor; the world widens as the learner advances.
 - **Felix** — a young helper in the bakery.
 - **Argus** — the family dog.
 
+### Recurring townsfolk
+
+- **Marcus** — a regular customer at the bakery.
+- Incidental, unnamed townsfolk also appear in passages (e.g. a farmer, *agricola*, who sells grain; neighbors, *vīcīnī*). Name a recurring character here before reusing them across sections.
+
 All characters are original to this project.
 
 ## Tone

@@ -13,6 +13,13 @@ Each chapter records:
 
 Vocabulary format: `latin — english (part of speech)`.
 
+**On counting words:** A vocabulary entry is a word the learner meets for the
+first time. When a chapter's teaching point *is* a new form (e.g. introducing
+the accusative, or the persons of a verb), that form is listed as new
+vocabulary. Otherwise, ordinary inflected forms of an already-introduced word
+(other cases, plurals, other persons) may appear in passages without counting
+as new vocabulary — this is how connected Latin reads naturally.
+
 ## Section I — In the Bakery (Beginner)
 
 *Story arc: meet the family and the shop.*
@@ -139,10 +146,10 @@ Vocabulary format: `latin — english (part of speech)`.
   - dō — I give (verb, 1st sg. present)
   - dat — gives (verb, 3rd sg. present)
   - grātiās — thanks (noun, accusative pl.)
-  - dūos — two (numeral, accusative masc.)
-  - pēcūniam — money (noun, accusative sg.)
+  - duōs — two (numeral, accusative masc.)
+  - pecūniam — money (noun, accusative sg.)
   - habet — has (verb, 3rd sg. present)
-- **Cumulative vocabulary (57):** pistrīna, pānis, Gaius, est, hīc, Tullia, Lucius, Aelia, mater, pater, sunt, puer, puella, canis, Argus, ibi, fornāx, mēnsa, facit, farinam, aquam, portat, Felix, coquit, pānem, in, calida, bona, faciō, facis, vendō, vendis, vendit, ūnus, duo, multī, pānēs, quis, quid, -ne, vir, fēmina, venit, clāmat, ad, ex, intrat, exit, Marcus, mēnsam, inquit, dō, dat, grātiās, dūos, pēcūniam, habet
+- **Cumulative vocabulary (57):** pistrīna, pānis, Gaius, est, hīc, Tullia, Lucius, Aelia, mater, pater, sunt, puer, puella, canis, Argus, ibi, fornāx, mēnsa, facit, farinam, aquam, portat, Felix, coquit, pānem, in, calida, bona, faciō, facis, vendō, vendis, vendit, ūnus, duo, multī, pānēs, quis, quid, -ne, vir, fēmina, venit, clāmat, ad, ex, intrat, exit, Marcus, mēnsam, inquit, dō, dat, grātiās, duōs, pecūniam, habet
 - **Comprehension target:** 80%
 - **Story beat:** Marcus is at the counter. "Dā mihi pānem!" inquit Marcus. Tullia says: "Bonusne est pānis? Bona sunt multī pānēs!" Marcus has money. He gives money to Tullia. Tullia gives two loaves to Marcus. "Grātiās," inquit Marcus. "Grātiās," inquit Tullia.
 
@@ -157,9 +164,9 @@ Vocabulary format: `latin — english (part of speech)`.
   - emere — to buy (verb, infinitive)
   - emit — buys (verb, 3rd sg. present)
   - nōn — not (adverb)
-- **Cumulative vocabulary (65):** pistrīna, pānis, Gaius, est, hīc, Tullia, Lucius, Aelia, mater, pater, sunt, puer, puella, canis, Argus, ibi, fornāx, mēnsa, facit, farinam, aquam, portat, Felix, coquit, pānem, in, calida, bona, faciō, facis, vendō, vendis, vendit, ūnus, duo, multī, pānēs, quis, quid, -ne, vir, fēmina, venit, clāmat, ad, ex, intrat, exit, Marcus, mēnsam, inquit, dō, dat, grātiās, dūos, pēcūniam, habet, vult, volō, cupit, cupiō, bonum, emere, emit, nōn
+- **Cumulative vocabulary (65):** pistrīna, pānis, Gaius, est, hīc, Tullia, Lucius, Aelia, mater, pater, sunt, puer, puella, canis, Argus, ibi, fornāx, mēnsa, facit, farinam, aquam, portat, Felix, coquit, pānem, in, calida, bona, faciō, facis, vendō, vendis, vendit, ūnus, duo, multī, pānēs, quis, quid, -ne, vir, fēmina, venit, clāmat, ad, ex, intrat, exit, Marcus, mēnsam, inquit, dō, dat, grātiās, duōs, pecūniam, habet, vult, volō, cupit, cupiō, bonum, emere, emit, nōn
 - **Comprehension target:** 78%
-- **Story beat:** Marcus vult pānem bonum. "Cupiō dūos pānēs," inquit Marcus. The woman also comes to the counter. She too wants bread. "Volō pānem," inquit fēmina. She has money and buys one loaf. Argus is here — Argus cupit pānem! "Nōn," inquit Gaius. Lucius and Aelia clāmant: "Multī pānēs sunt — bona pistrīna est!"
+- **Story beat:** Marcus vult pānem bonum. "Cupiō duōs pānēs," inquit Marcus. The woman also comes to the counter. She too wants bread. "Volō pānem," inquit fēmina. She has money and buys one loaf. Argus is here — Argus cupit pānem! "Nōn," inquit Gaius. Lucius and Aelia clāmant: "Multī pānēs sunt — bona pistrīna est!"
 
 ## Section IV — A Problem in the Shop (Intermediate)
 
@@ -174,7 +181,7 @@ Vocabulary format: `latin — english (part of speech)`.
   - parvus — small (adjective, nom. sg. masc.)
   - parva — small (adjective, nom. sg. fem.)
   - parvī — small (adjective, nom. pl. masc.)
-- **Cumulative vocabulary (71):** pistrīna, pānis, Gaius, est, hīc, Tullia, Lucius, Aelia, mater, pater, sunt, puer, puella, canis, Argus, ibi, fornāx, mēnsa, facit, farinam, aquam, portat, Felix, coquit, pānem, in, calida, bona, faciō, facis, vendō, vendis, vendit, ūnus, duo, multī, pānēs, quis, quid, -ne, vir, fēmina, venit, clāmat, ad, ex, intrat, exit, Marcus, mēnsam, inquit, dō, dat, grātiās, dūos, pēcūniam, habet, vult, volō, cupit, cupiō, bonum, emere, emit, nōn, magnus, magna, magnī, parvus, parva, parvī
+- **Cumulative vocabulary (71):** pistrīna, pānis, Gaius, est, hīc, Tullia, Lucius, Aelia, mater, pater, sunt, puer, puella, canis, Argus, ibi, fornāx, mēnsa, facit, farinam, aquam, portat, Felix, coquit, pānem, in, calida, bona, faciō, facis, vendō, vendis, vendit, ūnus, duo, multī, pānēs, quis, quid, -ne, vir, fēmina, venit, clāmat, ad, ex, intrat, exit, Marcus, mēnsam, inquit, dō, dat, grātiās, duōs, pecūniam, habet, vult, volō, cupit, cupiō, bonum, emere, emit, nōn, magnus, magna, magnī, parvus, parva, parvī
 - **Comprehension target:** 80%
 - **Story beat:** Pistrīna magna est. Fornāx magna est. Mēnsa parva est. Pānēs magnī sunt. Ūnus pānis parvus est.
 
@@ -187,7 +194,7 @@ Vocabulary format: `latin — english (part of speech)`.
   - malum — bad (adjective, acc. sg. masc.)
   - frīgida — cold (adjective, nom. sg. fem.)
   - calidus — hot (adjective, nom. sg. masc.)
-- **Cumulative vocabulary (77):** pistrīna, pānis, Gaius, est, hīc, Tullia, Lucius, Aelia, mater, pater, sunt, puer, puella, canis, Argus, ibi, fornāx, mēnsa, facit, farinam, aquam, portat, Felix, coquit, pānem, in, calida, bona, faciō, facis, vendō, vendis, vendit, ūnus, duo, multī, pānēs, quis, quid, -ne, vir, fēmina, venit, clāmat, ad, ex, intrat, exit, Marcus, mēnsam, inquit, dō, dat, grātiās, dūos, pēcūniam, habet, vult, volō, cupit, cupiō, bonum, emere, emit, nōn, magnus, magna, magnī, parvus, parva, parvī, bonus, malus, mala, malum, frīgida, calidus
+- **Cumulative vocabulary (77):** pistrīna, pānis, Gaius, est, hīc, Tullia, Lucius, Aelia, mater, pater, sunt, puer, puella, canis, Argus, ibi, fornāx, mēnsa, facit, farinam, aquam, portat, Felix, coquit, pānem, in, calida, bona, faciō, facis, vendō, vendis, vendit, ūnus, duo, multī, pānēs, quis, quid, -ne, vir, fēmina, venit, clāmat, ad, ex, intrat, exit, Marcus, mēnsam, inquit, dō, dat, grātiās, duōs, pecūniam, habet, vult, volō, cupit, cupiō, bonum, emere, emit, nōn, magnus, magna, magnī, parvus, parva, parvī, bonus, malus, mala, malum, frīgida, calidus
 - **Comprehension target:** 78%
 - **Story beat:** Fornāx calida est. Aqua frīgida est. Pānis bonus est. Farina mala est — and bad flour makes bad bread.
 
@@ -200,7 +207,7 @@ Vocabulary format: `latin — english (part of speech)`.
   - clāmāvit — shouted (verb, perfect 3rd sg.)
   - vēndidit — sold (verb, perfect 3rd sg.)
   - sed — but (conjunction)
-- **Cumulative vocabulary (83):** pistrīna, pānis, Gaius, est, hīc, Tullia, Lucius, Aelia, mater, pater, sunt, puer, puella, canis, Argus, ibi, fornāx, mēnsa, facit, farinam, aquam, portat, Felix, coquit, pānem, in, calida, bona, faciō, facis, vendō, vendis, vendit, ūnus, duo, multī, pānēs, quis, quid, -ne, vir, fēmina, venit, clāmat, ad, ex, intrat, exit, Marcus, mēnsam, inquit, dō, dat, grātiās, dūos, pēcūniam, habet, vult, volō, cupit, cupiō, bonum, emere, emit, nōn, magnus, magna, magnī, parvus, parva, parvī, bonus, malus, mala, malum, frīgida, calidus, fēcit, coxit, portāvit, clāmāvit, vēndidit, sed
+- **Cumulative vocabulary (83):** pistrīna, pānis, Gaius, est, hīc, Tullia, Lucius, Aelia, mater, pater, sunt, puer, puella, canis, Argus, ibi, fornāx, mēnsa, facit, farinam, aquam, portat, Felix, coquit, pānem, in, calida, bona, faciō, facis, vendō, vendis, vendit, ūnus, duo, multī, pānēs, quis, quid, -ne, vir, fēmina, venit, clāmat, ad, ex, intrat, exit, Marcus, mēnsam, inquit, dō, dat, grātiās, duōs, pecūniam, habet, vult, volō, cupit, cupiō, bonum, emere, emit, nōn, magnus, magna, magnī, parvus, parva, parvī, bonus, malus, mala, malum, frīgida, calidus, fēcit, coxit, portāvit, clāmāvit, vēndidit, sed
 - **Comprehension target:** 76%
 - **Story beat:** Felix farinam portāvit. Gaius pānem fēcit. Fornāx pānem coxit. Sed pānis malus est! Tullia clāmāvit: "Pānis malus est!"
 
@@ -212,7 +219,7 @@ Vocabulary format: `latin — english (part of speech)`.
   - iterum — again (adverb)
   - nunc — now (adverb)
   - laetus — happy (adjective, nom. sg. masc.)
-- **Cumulative vocabulary (88):** pistrīna, pānis, Gaius, est, hīc, Tullia, Lucius, Aelia, mater, pater, sunt, puer, puella, canis, Argus, ibi, fornāx, mēnsa, facit, farinam, aquam, portat, Felix, coquit, pānem, in, calida, bona, faciō, facis, vendō, vendis, vendit, ūnus, duo, multī, pānēs, quis, quid, -ne, vir, fēmina, venit, clāmat, ad, ex, intrat, exit, Marcus, mēnsam, inquit, dō, dat, grātiās, dūos, pēcūniam, habet, vult, volō, cupit, cupiō, bonum, emere, emit, nōn, magnus, magna, magnī, parvus, parva, parvī, bonus, malus, mala, malum, frīgida, calidus, fēcit, coxit, portāvit, clāmāvit, vēndidit, sed, nēmō, nihil, iterum, nunc, laetus
+- **Cumulative vocabulary (88):** pistrīna, pānis, Gaius, est, hīc, Tullia, Lucius, Aelia, mater, pater, sunt, puer, puella, canis, Argus, ibi, fornāx, mēnsa, facit, farinam, aquam, portat, Felix, coquit, pānem, in, calida, bona, faciō, facis, vendō, vendis, vendit, ūnus, duo, multī, pānēs, quis, quid, -ne, vir, fēmina, venit, clāmat, ad, ex, intrat, exit, Marcus, mēnsam, inquit, dō, dat, grātiās, duōs, pecūniam, habet, vult, volō, cupit, cupiō, bonum, emere, emit, nōn, magnus, magna, magnī, parvus, parva, parvī, bonus, malus, mala, malum, frīgida, calidus, fēcit, coxit, portāvit, clāmāvit, vēndidit, sed, nēmō, nihil, iterum, nunc, laetus
 - **Comprehension target:** 76%
 - **Story beat:** Nēmō pānem malum emit. Nēmō pānem malum cupit. Gaius pānem iterum facit. Fornāx pānem iterum coxit. Nunc pānis bonus est! Marcus pānem bonum emit. Gaius laetus est.
 
@@ -231,7 +238,7 @@ Vocabulary format: `latin — english (part of speech)`.
   - oppidum — town (noun, nom./acc. sg.)
   - frūmentum — grain (noun, nom./acc. sg.)
   - longa — long (adjective, nom. sg. fem.)
-- **Cumulative vocabulary (96):** pistrīna, pānis, Gaius, est, hīc, Tullia, Lucius, Aelia, mater, pater, sunt, puer, puella, canis, Argus, ibi, fornāx, mēnsa, facit, farinam, aquam, portat, Felix, coquit, pānem, in, calida, bona, faciō, facis, vendō, vendis, vendit, ūnus, duo, multī, pānēs, quis, quid, -ne, vir, fēmina, venit, clāmat, ad, ex, intrat, exit, Marcus, mēnsam, inquit, dō, dat, grātiās, dūos, pēcūniam, habet, vult, volō, cupit, cupiō, bonum, emere, emit, nōn, magnus, magna, magnī, parvus, parva, parvī, bonus, malus, mala, malum, frīgida, calidus, fēcit, coxit, portāvit, clāmāvit, vēndidit, sed, nēmō, nihil, iterum, nunc, laetus, it, eō, via, viam, viā, oppidum, frūmentum, longa
+- **Cumulative vocabulary (96):** pistrīna, pānis, Gaius, est, hīc, Tullia, Lucius, Aelia, mater, pater, sunt, puer, puella, canis, Argus, ibi, fornāx, mēnsa, facit, farinam, aquam, portat, Felix, coquit, pānem, in, calida, bona, faciō, facis, vendō, vendis, vendit, ūnus, duo, multī, pānēs, quis, quid, -ne, vir, fēmina, venit, clāmat, ad, ex, intrat, exit, Marcus, mēnsam, inquit, dō, dat, grātiās, duōs, pecūniam, habet, vult, volō, cupit, cupiō, bonum, emere, emit, nōn, magnus, magna, magnī, parvus, parva, parvī, bonus, malus, mala, malum, frīgida, calidus, fēcit, coxit, portāvit, clāmāvit, vēndidit, sed, nēmō, nihil, iterum, nunc, laetus, it, eō, via, viam, viā, oppidum, frūmentum, longa
 - **Comprehension target:** 74%
 - **Story beat:** Gaius frūmentum cupit. Frūmentum nōn hīc est. Lucius frūmentum cupit; Lucius ē pistrīnā it. Via longa est. Lucius in viam it. Lucius ad oppidum it. Canis venit.
 
@@ -244,7 +251,7 @@ Vocabulary format: `latin — english (part of speech)`.
   - crās — tomorrow (adverb)
   - diēs — day (noun, nom. sg.)
   - iter — journey (noun, nom./acc. sg.)
-- **Cumulative vocabulary (102):** pistrīna, pānis, Gaius, est, hīc, Tullia, Lucius, Aelia, mater, pater, sunt, puer, puella, canis, Argus, ibi, fornāx, mēnsa, facit, farinam, aquam, portat, Felix, coquit, pānem, in, calida, bona, faciō, facis, vendō, vendis, vendit, ūnus, duo, multī, pānēs, quis, quid, -ne, vir, fēmina, venit, clāmat, ad, ex, intrat, exit, Marcus, mēnsam, inquit, dō, dat, grātiās, dūos, pēcūniam, habet, vult, volō, cupit, cupiō, bonum, emere, emit, nōn, magnus, magna, magnī, parvus, parva, parvī, bonus, malus, mala, malum, frīgida, calidus, fēcit, coxit, portāvit, clāmāvit, vēndidit, sed, nēmō, nihil, iterum, nunc, laetus, it, eō, via, viam, viā, oppidum, frūmentum, longa, hodiē, māne, tum, crās, diēs, iter
+- **Cumulative vocabulary (102):** pistrīna, pānis, Gaius, est, hīc, Tullia, Lucius, Aelia, mater, pater, sunt, puer, puella, canis, Argus, ibi, fornāx, mēnsa, facit, farinam, aquam, portat, Felix, coquit, pānem, in, calida, bona, faciō, facis, vendō, vendis, vendit, ūnus, duo, multī, pānēs, quis, quid, -ne, vir, fēmina, venit, clāmat, ad, ex, intrat, exit, Marcus, mēnsam, inquit, dō, dat, grātiās, duōs, pecūniam, habet, vult, volō, cupit, cupiō, bonum, emere, emit, nōn, magnus, magna, magnī, parvus, parva, parvī, bonus, malus, mala, malum, frīgida, calidus, fēcit, coxit, portāvit, clāmāvit, vēndidit, sed, nēmō, nihil, iterum, nunc, laetus, it, eō, via, viam, viā, oppidum, frūmentum, longa, hodiē, māne, tum, crās, diēs, iter
 - **Comprehension target:** 72%
 - **Story beat:** Hodiē Lucius iter facit. Māne via longa est. Lucius in viā est. Tum Lucius frūmentum cupit. Diēs longa est. Crās Lucius pānem facit.
 
@@ -257,9 +264,9 @@ Vocabulary format: `latin — english (part of speech)`.
   - agricolam — farmer (noun, acc. sg.)
   - rogat — asks (verb, 3rd sg.)
   - respondet — answers (verb, 3rd sg.)
-- **Cumulative vocabulary (108):** pistrīna, pānis, Gaius, est, hīc, Tullia, Lucius, Aelia, mater, pater, sunt, puer, puella, canis, Argus, ibi, fornāx, mēnsa, facit, farinam, aquam, portat, Felix, coquit, pānem, in, calida, bona, faciō, facis, vendō, vendis, vendit, ūnus, duo, multī, pānēs, quis, quid, -ne, vir, fēmina, venit, clāmat, ad, ex, intrat, exit, Marcus, mēnsam, inquit, dō, dat, grātiās, dūos, pēcūniam, habet, vult, volō, cupit, cupiō, bonum, emere, emit, nōn, magnus, magna, magnī, parvus, parva, parvī, bonus, malus, mala, malum, frīgida, calidus, fēcit, coxit, portāvit, clāmāvit, vēndidit, sed, nēmō, nihil, iterum, nunc, laetus, it, eō, via, viam, viā, oppidum, frūmentum, longa, hodiē, māne, tum, crās, diēs, iter, et, deinde, agricola, agricolam, rogat, respondet
+- **Cumulative vocabulary (108):** pistrīna, pānis, Gaius, est, hīc, Tullia, Lucius, Aelia, mater, pater, sunt, puer, puella, canis, Argus, ibi, fornāx, mēnsa, facit, farinam, aquam, portat, Felix, coquit, pānem, in, calida, bona, faciō, facis, vendō, vendis, vendit, ūnus, duo, multī, pānēs, quis, quid, -ne, vir, fēmina, venit, clāmat, ad, ex, intrat, exit, Marcus, mēnsam, inquit, dō, dat, grātiās, duōs, pecūniam, habet, vult, volō, cupit, cupiō, bonum, emere, emit, nōn, magnus, magna, magnī, parvus, parva, parvī, bonus, malus, mala, malum, frīgida, calidus, fēcit, coxit, portāvit, clāmāvit, vēndidit, sed, nēmō, nihil, iterum, nunc, laetus, it, eō, via, viam, viā, oppidum, frūmentum, longa, hodiē, māne, tum, crās, diēs, iter, et, deinde, agricola, agricolam, rogat, respondet
 - **Comprehension target:** 70%
-- **Story beat:** Lucius ad agricolam venit et agricolam rogat. Agricola respondet. Agricola frūmentum habet et frūmentum dat. Lucius pēcūniam dat. "Grātiās," inquit Lucius. Deinde Lucius ad pistrīnam it.
+- **Story beat:** Lucius ad agricolam venit et agricolam rogat. Agricola respondet. Agricola frūmentum habet et frūmentum dat. Lucius pecūniam dat. "Grātiās," inquit Lucius. Deinde Lucius ad pistrīnam it.
 
 ### Chapter 20 — With and without
 - **Grammar concept:** Companions and lack — *cum* (with) and *sine* (without).
@@ -271,7 +278,7 @@ Vocabulary format: `latin — english (part of speech)`.
   - domum — home, homeward (adverb / acc.)
   - aquā — water (noun, abl. sg.)
   - frūmentō — grain (noun, abl. sg.)
-- **Cumulative vocabulary (115):** pistrīna, pānis, Gaius, est, hīc, Tullia, Lucius, Aelia, mater, pater, sunt, puer, puella, canis, Argus, ibi, fornāx, mēnsa, facit, farinam, aquam, portat, Felix, coquit, pānem, in, calida, bona, faciō, facis, vendō, vendis, vendit, ūnus, duo, multī, pānēs, quis, quid, -ne, vir, fēmina, venit, clāmat, ad, ex, intrat, exit, Marcus, mēnsam, inquit, dō, dat, grātiās, dūos, pēcūniam, habet, vult, volō, cupit, cupiō, bonum, emere, emit, nōn, magnus, magna, magnī, parvus, parva, parvī, bonus, malus, mala, malum, frīgida, calidus, fēcit, coxit, portāvit, clāmāvit, vēndidit, sed, nēmō, nihil, iterum, nunc, laetus, it, eō, via, viam, viā, oppidum, frūmentum, longa, hodiē, māne, tum, crās, diēs, iter, et, deinde, agricola, agricolam, rogat, respondet, cum, sine, amīcus, amīcō, domum, aquā, frūmentō
+- **Cumulative vocabulary (115):** pistrīna, pānis, Gaius, est, hīc, Tullia, Lucius, Aelia, mater, pater, sunt, puer, puella, canis, Argus, ibi, fornāx, mēnsa, facit, farinam, aquam, portat, Felix, coquit, pānem, in, calida, bona, faciō, facis, vendō, vendis, vendit, ūnus, duo, multī, pānēs, quis, quid, -ne, vir, fēmina, venit, clāmat, ad, ex, intrat, exit, Marcus, mēnsam, inquit, dō, dat, grātiās, duōs, pecūniam, habet, vult, volō, cupit, cupiō, bonum, emere, emit, nōn, magnus, magna, magnī, parvus, parva, parvī, bonus, malus, mala, malum, frīgida, calidus, fēcit, coxit, portāvit, clāmāvit, vēndidit, sed, nēmō, nihil, iterum, nunc, laetus, it, eō, via, viam, viā, oppidum, frūmentum, longa, hodiē, māne, tum, crās, diēs, iter, et, deinde, agricola, agricolam, rogat, respondet, cum, sine, amīcus, amīcō, domum, aquā, frūmentō
 - **Comprehension target:** 70%
 - **Story beat:** Lucius cum amīcō in viā est. Sine aquā via longa est. Tum Lucius cum frūmentō domum venit. Gaius sine frūmentō pānem nōn facit. Nunc Gaius frūmentum habet et laetus est.
 
@@ -288,7 +295,7 @@ Vocabulary format: `latin — english (part of speech)`.
   - omnēs — all, everyone (pronoun/adjective, nom. pl.)
   - laetī — happy (adjective, nom. pl. masc.)
   - veniunt — they come (verb, 3rd pl.)
-- **Cumulative vocabulary (121):** pistrīna, pānis, Gaius, est, hīc, Tullia, Lucius, Aelia, mater, pater, sunt, puer, puella, canis, Argus, ibi, fornāx, mēnsa, facit, farinam, aquam, portat, Felix, coquit, pānem, in, calida, bona, faciō, facis, vendō, vendis, vendit, ūnus, duo, multī, pānēs, quis, quid, -ne, vir, fēmina, venit, clāmat, ad, ex, intrat, exit, Marcus, mēnsam, inquit, dō, dat, grātiās, dūos, pēcūniam, habet, vult, volō, cupit, cupiō, bonum, emere, emit, nōn, magnus, magna, magnī, parvus, parva, parvī, bonus, malus, mala, malum, frīgida, calidus, fēcit, coxit, portāvit, clāmāvit, vēndidit, sed, nēmō, nihil, iterum, nunc, laetus, it, eō, via, viam, viā, oppidum, frūmentum, longa, hodiē, māne, tum, crās, diēs, iter, et, deinde, agricola, agricolam, rogat, respondet, cum, sine, amīcus, amīcō, domum, aquā, frūmentō, quod, ubi, fēstum, omnēs, laetī, veniunt
+- **Cumulative vocabulary (121):** pistrīna, pānis, Gaius, est, hīc, Tullia, Lucius, Aelia, mater, pater, sunt, puer, puella, canis, Argus, ibi, fornāx, mēnsa, facit, farinam, aquam, portat, Felix, coquit, pānem, in, calida, bona, faciō, facis, vendō, vendis, vendit, ūnus, duo, multī, pānēs, quis, quid, -ne, vir, fēmina, venit, clāmat, ad, ex, intrat, exit, Marcus, mēnsam, inquit, dō, dat, grātiās, duōs, pecūniam, habet, vult, volō, cupit, cupiō, bonum, emere, emit, nōn, magnus, magna, magnī, parvus, parva, parvī, bonus, malus, mala, malum, frīgida, calidus, fēcit, coxit, portāvit, clāmāvit, vēndidit, sed, nēmō, nihil, iterum, nunc, laetus, it, eō, via, viam, viā, oppidum, frūmentum, longa, hodiē, māne, tum, crās, diēs, iter, et, deinde, agricola, agricolam, rogat, respondet, cum, sine, amīcus, amīcō, domum, aquā, frūmentō, quod, ubi, fēstum, omnēs, laetī, veniunt
 - **Comprehension target:** 72%
 - **Story beat:** Hodiē fēstum est. Omnēs laetī sunt quod fēstum magnum est. Ubi diēs venit, multī ad pistrīnam veniunt. Gaius pānēs facit quod multī pānem cupiunt.
 
@@ -300,9 +307,9 @@ Vocabulary format: `latin — english (part of speech)`.
   - vīcīnus — neighbor (noun, nom. sg.)
   - vīcīnī — neighbors (noun, nom. pl.)
   - dōnum — gift (noun, nom./acc. sg.)
-- **Cumulative vocabulary (126):** pistrīna, pānis, Gaius, est, hīc, Tullia, Lucius, Aelia, mater, pater, sunt, puer, puella, canis, Argus, ibi, fornāx, mēnsa, facit, farinam, aquam, portat, Felix, coquit, pānem, in, calida, bona, faciō, facis, vendō, vendis, vendit, ūnus, duo, multī, pānēs, quis, quid, -ne, vir, fēmina, venit, clāmat, ad, ex, intrat, exit, Marcus, mēnsam, inquit, dō, dat, grātiās, dūos, pēcūniam, habet, vult, volō, cupit, cupiō, bonum, emere, emit, nōn, magnus, magna, magnī, parvus, parva, parvī, bonus, malus, mala, malum, frīgida, calidus, fēcit, coxit, portāvit, clāmāvit, vēndidit, sed, nēmō, nihil, iterum, nunc, laetus, it, eō, via, viam, viā, oppidum, frūmentum, longa, hodiē, māne, tum, crās, diēs, iter, et, deinde, agricola, agricolam, rogat, respondet, cum, sine, amīcus, amīcō, domum, aquā, frūmentō, quod, ubi, fēstum, omnēs, laetī, veniunt, quī, quae, vīcīnus, vīcīnī, dōnum
+- **Cumulative vocabulary (126):** pistrīna, pānis, Gaius, est, hīc, Tullia, Lucius, Aelia, mater, pater, sunt, puer, puella, canis, Argus, ibi, fornāx, mēnsa, facit, farinam, aquam, portat, Felix, coquit, pānem, in, calida, bona, faciō, facis, vendō, vendis, vendit, ūnus, duo, multī, pānēs, quis, quid, -ne, vir, fēmina, venit, clāmat, ad, ex, intrat, exit, Marcus, mēnsam, inquit, dō, dat, grātiās, duōs, pecūniam, habet, vult, volō, cupit, cupiō, bonum, emere, emit, nōn, magnus, magna, magnī, parvus, parva, parvī, bonus, malus, mala, malum, frīgida, calidus, fēcit, coxit, portāvit, clāmāvit, vēndidit, sed, nēmō, nihil, iterum, nunc, laetus, it, eō, via, viam, viā, oppidum, frūmentum, longa, hodiē, māne, tum, crās, diēs, iter, et, deinde, agricola, agricolam, rogat, respondet, cum, sine, amīcus, amīcō, domum, aquā, frūmentō, quod, ubi, fēstum, omnēs, laetī, veniunt, quī, quae, vīcīnus, vīcīnī, dōnum
 - **Comprehension target:** 70%
-- **Story beat:** Marcus, quī pānem cupit, ad pistrīnam venit. Fēmina, quae pēcūniam habet, pānem emit. Vīcīnī, quī laetī sunt, veniunt. Vīcīnus dōnum dat.
+- **Story beat:** Marcus, quī pānem cupit, ad pistrīnam venit. Fēmina, quae pecūniam habet, pānem emit. Vīcīnī, quī laetī sunt, veniunt. Vīcīnus dōnum dat.
 
 ### Chapter 23 — Through the town
 - **Grammar concept:** Putting it together — a longer connected passage with description and sequence.
@@ -311,13 +318,13 @@ Vocabulary format: `latin — english (part of speech)`.
   - cibum — food (noun, acc. sg.)
   - cantat — sings (verb, 3rd sg.)
   - per — through (preposition + accusative)
-- **Cumulative vocabulary (130):** pistrīna, pānis, Gaius, est, hīc, Tullia, Lucius, Aelia, mater, pater, sunt, puer, puella, canis, Argus, ibi, fornāx, mēnsa, facit, farinam, aquam, portat, Felix, coquit, pānem, in, calida, bona, faciō, facis, vendō, vendis, vendit, ūnus, duo, multī, pānēs, quis, quid, -ne, vir, fēmina, venit, clāmat, ad, ex, intrat, exit, Marcus, mēnsam, inquit, dō, dat, grātiās, dūos, pēcūniam, habet, vult, volō, cupit, cupiō, bonum, emere, emit, nōn, magnus, magna, magnī, parvus, parva, parvī, bonus, malus, mala, malum, frīgida, calidus, fēcit, coxit, portāvit, clāmāvit, vēndidit, sed, nēmō, nihil, iterum, nunc, laetus, it, eō, via, viam, viā, oppidum, frūmentum, longa, hodiē, māne, tum, crās, diēs, iter, et, deinde, agricola, agricolam, rogat, respondet, cum, sine, amīcus, amīcō, domum, aquā, frūmentō, quod, ubi, fēstum, omnēs, laetī, veniunt, quī, quae, vīcīnus, vīcīnī, dōnum, cibus, cibum, cantat, per
+- **Cumulative vocabulary (130):** pistrīna, pānis, Gaius, est, hīc, Tullia, Lucius, Aelia, mater, pater, sunt, puer, puella, canis, Argus, ibi, fornāx, mēnsa, facit, farinam, aquam, portat, Felix, coquit, pānem, in, calida, bona, faciō, facis, vendō, vendis, vendit, ūnus, duo, multī, pānēs, quis, quid, -ne, vir, fēmina, venit, clāmat, ad, ex, intrat, exit, Marcus, mēnsam, inquit, dō, dat, grātiās, duōs, pecūniam, habet, vult, volō, cupit, cupiō, bonum, emere, emit, nōn, magnus, magna, magnī, parvus, parva, parvī, bonus, malus, mala, malum, frīgida, calidus, fēcit, coxit, portāvit, clāmāvit, vēndidit, sed, nēmō, nihil, iterum, nunc, laetus, it, eō, via, viam, viā, oppidum, frūmentum, longa, hodiē, māne, tum, crās, diēs, iter, et, deinde, agricola, agricolam, rogat, respondet, cum, sine, amīcus, amīcō, domum, aquā, frūmentō, quod, ubi, fēstum, omnēs, laetī, veniunt, quī, quae, vīcīnus, vīcīnī, dōnum, cibus, cibum, cantat, per
 - **Comprehension target:** 70%
 - **Story beat:** Hodiē fēstum magnum est. Māne Marcus per viam ad pistrīnam it. Marcus pānem emit. Tullia pānem vendit. Gaius cibum facit et Felix cibum portat. Lucius cantat. Omnēs laetī sunt.
 
 ### Chapter 24 — A good day (mastery)
 - **Grammar concept:** Review and mastery — read a full story using everything learned. No new vocabulary.
 - **New vocabulary (0):** none — this chapter reuses the accumulated vocabulary.
-- **Cumulative vocabulary (130):** pistrīna, pānis, Gaius, est, hīc, Tullia, Lucius, Aelia, mater, pater, sunt, puer, puella, canis, Argus, ibi, fornāx, mēnsa, facit, farinam, aquam, portat, Felix, coquit, pānem, in, calida, bona, faciō, facis, vendō, vendis, vendit, ūnus, duo, multī, pānēs, quis, quid, -ne, vir, fēmina, venit, clāmat, ad, ex, intrat, exit, Marcus, mēnsam, inquit, dō, dat, grātiās, dūos, pēcūniam, habet, vult, volō, cupit, cupiō, bonum, emere, emit, nōn, magnus, magna, magnī, parvus, parva, parvī, bonus, malus, mala, malum, frīgida, calidus, fēcit, coxit, portāvit, clāmāvit, vēndidit, sed, nēmō, nihil, iterum, nunc, laetus, it, eō, via, viam, viā, oppidum, frūmentum, longa, hodiē, māne, tum, crās, diēs, iter, et, deinde, agricola, agricolam, rogat, respondet, cum, sine, amīcus, amīcō, domum, aquā, frūmentō, quod, ubi, fēstum, omnēs, laetī, veniunt, quī, quae, vīcīnus, vīcīnī, dōnum, cibus, cibum, cantat, per
+- **Cumulative vocabulary (130):** pistrīna, pānis, Gaius, est, hīc, Tullia, Lucius, Aelia, mater, pater, sunt, puer, puella, canis, Argus, ibi, fornāx, mēnsa, facit, farinam, aquam, portat, Felix, coquit, pānem, in, calida, bona, faciō, facis, vendō, vendis, vendit, ūnus, duo, multī, pānēs, quis, quid, -ne, vir, fēmina, venit, clāmat, ad, ex, intrat, exit, Marcus, mēnsam, inquit, dō, dat, grātiās, duōs, pecūniam, habet, vult, volō, cupit, cupiō, bonum, emere, emit, nōn, magnus, magna, magnī, parvus, parva, parvī, bonus, malus, mala, malum, frīgida, calidus, fēcit, coxit, portāvit, clāmāvit, vēndidit, sed, nēmō, nihil, iterum, nunc, laetus, it, eō, via, viam, viā, oppidum, frūmentum, longa, hodiē, māne, tum, crās, diēs, iter, et, deinde, agricola, agricolam, rogat, respondet, cum, sine, amīcus, amīcō, domum, aquā, frūmentō, quod, ubi, fēstum, omnēs, laetī, veniunt, quī, quae, vīcīnus, vīcīnī, dōnum, cibus, cibum, cantat, per
 - **Comprehension target:** 70%
-- **Story beat:** Hodiē fēstum magnum est. Māne Gaius pānem facit. Fornāx calida est et pānēs coquit. Tullia ad mēnsam pānem vendit. Marcus venit: "Volō duōs pānēs!" Marcus pēcūniam dat; Tullia pānem dat. Vīcīnus, quī laetus est, pānem emit. Lucius cantat. Argus hīc est. Omnēs laetī sunt quod pānis bonus est. Bona pistrīna est!
+- **Story beat:** Hodiē fēstum magnum est. Māne Gaius pānem facit. Fornāx calida est et pānēs coquit. Tullia ad mēnsam pānem vendit. Marcus venit: "Volō duōs pānēs!" Marcus pecūniam dat; Tullia pānem dat. Vīcīnus, quī laetus est, pānem emit. Lucius cantat. Argus hīc est. Omnēs laetī sunt quod pānis bonus est. Bona pistrīna est!
