@@ -6,6 +6,14 @@ Ensure consistent, high-quality educational content.
 
 ---
 
+# Most Important Rule — Monolingual Immersion
+
+No English may ever reach the frontend. All learner-facing content — reading passages, exercises, tutor messages, and content UI copy — must be Latin only. Meaning is conveyed through comprehensible input, context, and illustration, never translation.
+
+English is permitted only in non-learner-facing material: internal authoring/spec documents and vocabulary reference glosses that are never shipped to the frontend.
+
+---
+
 # Golden Rule
 
 Never introduce language structures that the learner has not yet studied unless they are the explicit lesson objective.
