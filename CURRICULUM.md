@@ -189,7 +189,7 @@ Vocabulary format: `latin — english (part of speech)`.
   - calidus — hot (adjective, nom. sg. masc.)
 - **Cumulative vocabulary (77):** pistrīna, pānis, Gaius, est, hīc, Tullia, Lucius, Aelia, mater, pater, sunt, puer, puella, canis, Argus, ibi, fornāx, mēnsa, facit, farinam, aquam, portat, Felix, coquit, pānem, in, calida, bona, faciō, facis, vendō, vendis, vendit, ūnus, duo, multī, pānēs, quis, quid, -ne, vir, fēmina, venit, clāmat, ad, ex, intrat, exit, Marcus, mēnsam, inquit, dō, dat, grātiās, dūos, pēcūniam, habet, vult, volō, cupit, cupiō, bonum, emere, emit, nōn, magnus, magna, magnī, parvus, parva, parvī, bonus, malus, mala, malum, frīgida, calidus
 - **Comprehension target:** 78%
-- **Story beat:** Fornāx calida est. Aqua frīgida est. Pānis bonus est. Sed hodiē farina mala est — and bad flour makes bad bread.
+- **Story beat:** Fornāx calida est. Aqua frīgida est. Pānis bonus est. Farina mala est — and bad flour makes bad bread.
 
 ### Chapter 15 — What happened
 - **Grammar concept:** Talking about what happened — the simple past (perfect) of familiar verbs.
@@ -215,3 +215,62 @@ Vocabulary format: `latin — english (part of speech)`.
 - **Cumulative vocabulary (88):** pistrīna, pānis, Gaius, est, hīc, Tullia, Lucius, Aelia, mater, pater, sunt, puer, puella, canis, Argus, ibi, fornāx, mēnsa, facit, farinam, aquam, portat, Felix, coquit, pānem, in, calida, bona, faciō, facis, vendō, vendis, vendit, ūnus, duo, multī, pānēs, quis, quid, -ne, vir, fēmina, venit, clāmat, ad, ex, intrat, exit, Marcus, mēnsam, inquit, dō, dat, grātiās, dūos, pēcūniam, habet, vult, volō, cupit, cupiō, bonum, emere, emit, nōn, magnus, magna, magnī, parvus, parva, parvī, bonus, malus, mala, malum, frīgida, calidus, fēcit, coxit, portāvit, clāmāvit, vēndidit, sed, nēmō, nihil, iterum, nunc, laetus
 - **Comprehension target:** 76%
 - **Story beat:** Nēmō pānem malum emit. Nēmō pānem malum cupit. Gaius pānem iterum facit. Fornāx pānem iterum coxit. Nunc pānis bonus est! Marcus pānem bonum emit. Gaius laetus est.
+
+## Section V — The Road for Grain (Advanced)
+
+*Story arc: a journey out of town.*
+
+### Chapter 17 — Going and coming
+- **Grammar concept:** Movement verbs and direction — going out of, along, and toward a place.
+- **New vocabulary (8):**
+  - it — goes (verb, *īre*, 3rd sg.)
+  - eō — I go (verb, *īre*, 1st sg.)
+  - via — road, way (noun, nom. sg.)
+  - viam — road, way (noun, acc. sg.)
+  - viā — road, way (noun, abl. sg.)
+  - oppidum — town (noun, nom./acc. sg.)
+  - frūmentum — grain (noun, nom./acc. sg.)
+  - longa — long (adjective, nom. sg. fem.)
+- **Cumulative vocabulary (96):** pistrīna, pānis, Gaius, est, hīc, Tullia, Lucius, Aelia, mater, pater, sunt, puer, puella, canis, Argus, ibi, fornāx, mēnsa, facit, farinam, aquam, portat, Felix, coquit, pānem, in, calida, bona, faciō, facis, vendō, vendis, vendit, ūnus, duo, multī, pānēs, quis, quid, -ne, vir, fēmina, venit, clāmat, ad, ex, intrat, exit, Marcus, mēnsam, inquit, dō, dat, grātiās, dūos, pēcūniam, habet, vult, volō, cupit, cupiō, bonum, emere, emit, nōn, magnus, magna, magnī, parvus, parva, parvī, bonus, malus, mala, malum, frīgida, calidus, fēcit, coxit, portāvit, clāmāvit, vēndidit, sed, nēmō, nihil, iterum, nunc, laetus, it, eō, via, viam, viā, oppidum, frūmentum, longa
+- **Comprehension target:** 74%
+- **Story beat:** Gaius frūmentum cupit. Frūmentum nōn hīc est. Lucius frūmentum cupit; Lucius ē pistrīnā it. Via longa est. Lucius in viam it. Lucius ad oppidum it. Canis venit.
+
+### Chapter 18 — Today and tomorrow
+- **Grammar concept:** Time words — when something happens (today, in the morning, then, tomorrow).
+- **New vocabulary (6):**
+  - hodiē — today (adverb)
+  - māne — in the morning (adverb)
+  - tum — then (adverb)
+  - crās — tomorrow (adverb)
+  - diēs — day (noun, nom. sg.)
+  - iter — journey (noun, nom./acc. sg.)
+- **Cumulative vocabulary (102):** pistrīna, pānis, Gaius, est, hīc, Tullia, Lucius, Aelia, mater, pater, sunt, puer, puella, canis, Argus, ibi, fornāx, mēnsa, facit, farinam, aquam, portat, Felix, coquit, pānem, in, calida, bona, faciō, facis, vendō, vendis, vendit, ūnus, duo, multī, pānēs, quis, quid, -ne, vir, fēmina, venit, clāmat, ad, ex, intrat, exit, Marcus, mēnsam, inquit, dō, dat, grātiās, dūos, pēcūniam, habet, vult, volō, cupit, cupiō, bonum, emere, emit, nōn, magnus, magna, magnī, parvus, parva, parvī, bonus, malus, mala, malum, frīgida, calidus, fēcit, coxit, portāvit, clāmāvit, vēndidit, sed, nēmō, nihil, iterum, nunc, laetus, it, eō, via, viam, viā, oppidum, frūmentum, longa, hodiē, māne, tum, crās, diēs, iter
+- **Comprehension target:** 72%
+- **Story beat:** Hodiē Lucius iter facit. Māne via longa est. Lucius in viā est. Tum Lucius frūmentum cupit. Diēs longa est. Crās Lucius pānem facit.
+
+### Chapter 19 — On the road
+- **Grammar concept:** A longer connected story — joining actions in sequence with *et* (and) and *deinde* (then, next).
+- **New vocabulary (6):**
+  - et — and (conjunction)
+  - deinde — then, next (adverb)
+  - agricola — farmer (noun, nom. sg.)
+  - agricolam — farmer (noun, acc. sg.)
+  - rogat — asks (verb, 3rd sg.)
+  - respondet — answers (verb, 3rd sg.)
+- **Cumulative vocabulary (108):** pistrīna, pānis, Gaius, est, hīc, Tullia, Lucius, Aelia, mater, pater, sunt, puer, puella, canis, Argus, ibi, fornāx, mēnsa, facit, farinam, aquam, portat, Felix, coquit, pānem, in, calida, bona, faciō, facis, vendō, vendis, vendit, ūnus, duo, multī, pānēs, quis, quid, -ne, vir, fēmina, venit, clāmat, ad, ex, intrat, exit, Marcus, mēnsam, inquit, dō, dat, grātiās, dūos, pēcūniam, habet, vult, volō, cupit, cupiō, bonum, emere, emit, nōn, magnus, magna, magnī, parvus, parva, parvī, bonus, malus, mala, malum, frīgida, calidus, fēcit, coxit, portāvit, clāmāvit, vēndidit, sed, nēmō, nihil, iterum, nunc, laetus, it, eō, via, viam, viā, oppidum, frūmentum, longa, hodiē, māne, tum, crās, diēs, iter, et, deinde, agricola, agricolam, rogat, respondet
+- **Comprehension target:** 70%
+- **Story beat:** Lucius ad agricolam venit et agricolam rogat. Agricola respondet. Agricola frūmentum habet et frūmentum dat. Lucius pēcūniam dat. "Grātiās," inquit Lucius. Deinde Lucius ad pistrīnam it.
+
+### Chapter 20 — With and without
+- **Grammar concept:** Companions and lack — *cum* (with) and *sine* (without).
+- **New vocabulary (7):**
+  - cum — with (preposition + ablative)
+  - sine — without (preposition + ablative)
+  - amīcus — friend (noun, nom. sg.)
+  - amīcō — friend (noun, abl. sg.)
+  - domum — home, homeward (adverb / acc.)
+  - aquā — water (noun, abl. sg.)
+  - frūmentō — grain (noun, abl. sg.)
+- **Cumulative vocabulary (115):** pistrīna, pānis, Gaius, est, hīc, Tullia, Lucius, Aelia, mater, pater, sunt, puer, puella, canis, Argus, ibi, fornāx, mēnsa, facit, farinam, aquam, portat, Felix, coquit, pānem, in, calida, bona, faciō, facis, vendō, vendis, vendit, ūnus, duo, multī, pānēs, quis, quid, -ne, vir, fēmina, venit, clāmat, ad, ex, intrat, exit, Marcus, mēnsam, inquit, dō, dat, grātiās, dūos, pēcūniam, habet, vult, volō, cupit, cupiō, bonum, emere, emit, nōn, magnus, magna, magnī, parvus, parva, parvī, bonus, malus, mala, malum, frīgida, calidus, fēcit, coxit, portāvit, clāmāvit, vēndidit, sed, nēmō, nihil, iterum, nunc, laetus, it, eō, via, viam, viā, oppidum, frūmentum, longa, hodiē, māne, tum, crās, diēs, iter, et, deinde, agricola, agricolam, rogat, respondet, cum, sine, amīcus, amīcō, domum, aquā, frūmentō
+- **Comprehension target:** 70%
+- **Story beat:** Lucius cum amīcō in viā est. Sine aquā via longa est. Tum Lucius cum frūmentō domum venit. Gaius sine frūmentō pānem nōn facit. Nunc Gaius frūmentum habet et laetus est.
