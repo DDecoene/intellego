@@ -100,3 +100,63 @@ Vocabulary format: `latin — english (part of speech)`.
 - **Cumulative vocabulary (37):** pistrīna, pānis, Gaius, est, hīc, Tullia, Lucius, Aelia, mater, pater, sunt, puer, puella, canis, Argus, ibi, fornāx, mēnsa, facit, farinam, aquam, portat, Felix, coquit, pānem, in, calida, bona, faciō, facis, vendō, vendis, vendit, ūnus, duo, multī, pānēs
 - **Comprehension target:** 88%
 - **Story beat:** The oven cooks one loaf, then two loaves. Gaius makes many loaves. Many loaves are on the counter. Tullia sells many loaves. It is a good morning in the bakery.
+
+## Section III — At the Counter (Intermediate)
+
+*Story arc: customers come to the counter; Tullia sells bread; a customer asks for bread and pays.*
+
+### Chapter 9 — Who is here?
+- **Grammar concept:** Asking questions — the question particle *-ne* and the interrogative pronouns *quis* (who?) and *quid* (what?).
+- **New vocabulary (7):**
+  - quis — who? (interrogative pronoun)
+  - quid — what? (interrogative pronoun)
+  - -ne — question particle (enclitic)
+  - vir — man (noun)
+  - fēmina — woman (noun)
+  - venit — comes / is coming (verb, 3rd sg. present)
+  - clāmat — calls out / shouts (verb, 3rd sg. present)
+- **Cumulative vocabulary (44):** pistrīna, pānis, Gaius, est, hīc, Tullia, Lucius, Aelia, mater, pater, sunt, puer, puella, canis, Argus, ibi, fornāx, mēnsa, facit, farinam, aquam, portat, Felix, coquit, pānem, in, calida, bona, faciō, facis, vendō, vendis, vendit, ūnus, duo, multī, pānēs, quis, quid, -ne, vir, fēmina, venit, clāmat
+- **Comprehension target:** 83%
+- **Story beat:** A man and a woman come to the bakery. Tullia is at the counter. She calls out: "Quis venit? Quid est?" The man is here. The woman is here. Many loaves are on the counter. Tullia sells bread.
+
+### Chapter 10 — Into the bakery, to the counter
+- **Grammar concept:** Place prepositions — *in* (in/into), *ad* (to/towards), *ex* (out of/from) with the idea of location and direction.
+- **New vocabulary (6):**
+  - ad — to / towards (preposition)
+  - ex — out of / from (preposition)
+  - intrat — enters (verb, 3rd sg. present)
+  - exit — goes out / exits (verb, 3rd sg. present)
+  - Marcus — Marcus, a customer (name)
+  - mēnsam — counter/table (noun, accusative sg.)
+- **Cumulative vocabulary (50):** pistrīna, pānis, Gaius, est, hīc, Tullia, Lucius, Aelia, mater, pater, sunt, puer, puella, canis, Argus, ibi, fornāx, mēnsa, facit, farinam, aquam, portat, Felix, coquit, pānem, in, calida, bona, faciō, facis, vendō, vendis, vendit, ūnus, duo, multī, pānēs, quis, quid, -ne, vir, fēmina, venit, clāmat, ad, ex, intrat, exit, Marcus, mēnsam
+- **Comprehension target:** 81%
+- **Story beat:** Marcus comes to the bakery. He enters the bakery. He walks to the counter — ad mēnsam. Argus exits from the bakery. Tullia is at the counter. Marcus is here. Many loaves are on the counter. Marcus calls out: "Bonusne est pānis?"
+
+### Chapter 11 — Marcus asks; Tullia answers
+- **Grammar concept:** Simple two-line dialogue — direct speech with *inquit* ("says/said") and a second speaker responding.
+- **New vocabulary (7):**
+  - inquit — says / said (verb, 3rd sg., verb of speaking)
+  - dō — I give (verb, 1st sg. present)
+  - dat — gives (verb, 3rd sg. present)
+  - grātiās — thanks (noun, accusative pl.)
+  - dūos — two (numeral, accusative masc.)
+  - pēcūniam — money (noun, accusative sg.)
+  - habet — has (verb, 3rd sg. present)
+- **Cumulative vocabulary (57):** pistrīna, pānis, Gaius, est, hīc, Tullia, Lucius, Aelia, mater, pater, sunt, puer, puella, canis, Argus, ibi, fornāx, mēnsa, facit, farinam, aquam, portat, Felix, coquit, pānem, in, calida, bona, faciō, facis, vendō, vendis, vendit, ūnus, duo, multī, pānēs, quis, quid, -ne, vir, fēmina, venit, clāmat, ad, ex, intrat, exit, Marcus, mēnsam, inquit, dō, dat, grātiās, dūos, pēcūniam, habet
+- **Comprehension target:** 80%
+- **Story beat:** Marcus is at the counter. "Dā mihi pānem!" inquit Marcus. Tullia says: "Bonusne est pānis? Bona sunt multī pānēs!" Marcus has money. He gives money to Tullia. Tullia gives two loaves to Marcus. "Grātiās," inquit Marcus. "Grātiās," inquit Tullia.
+
+### Chapter 12 — I want bread!
+- **Grammar concept:** Wanting and needing — first and third person of *velle* (to want) and *cupere* (to desire/wish for).
+- **New vocabulary (8):**
+  - vult — wants (verb, 3rd sg. present, *velle*)
+  - volō — I want (verb, 1st sg. present, *velle*)
+  - cupit — desires / wants (verb, 3rd sg. present, *cupere*)
+  - cupiō — I desire / want (verb, 1st sg. present, *cupere*)
+  - bonum — good (adjective, accusative sg. masc./neut.)
+  - emere — to buy (verb, infinitive)
+  - emit — buys (verb, 3rd sg. present)
+  - nōn — not (adverb)
+- **Cumulative vocabulary (65):** pistrīna, pānis, Gaius, est, hīc, Tullia, Lucius, Aelia, mater, pater, sunt, puer, puella, canis, Argus, ibi, fornāx, mēnsa, facit, farinam, aquam, portat, Felix, coquit, pānem, in, calida, bona, faciō, facis, vendō, vendis, vendit, ūnus, duo, multī, pānēs, quis, quid, -ne, vir, fēmina, venit, clāmat, ad, ex, intrat, exit, Marcus, mēnsam, inquit, dō, dat, grātiās, dūos, pēcūniam, habet, vult, volō, cupit, cupiō, bonum, emere, emit, nōn
+- **Comprehension target:** 78%
+- **Story beat:** Marcus vult pānem bonum. "Cupiō dūos pānēs," inquit Marcus. The woman also comes to the counter. She too wants bread. "Volō pānem," inquit fēmina. She has money and buys one loaf. Argus is here — Argus cupit pānem! "Nōn," inquit Gaius. Lucius and Aelia clāmant: "Multī pānēs sunt — bona pistrīna est!"
