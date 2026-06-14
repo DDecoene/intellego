@@ -79,7 +79,7 @@ early sections.
 
 Confirm: no source book named; all six characters present; setting + tone + continuity sections present.
 
-Run: `grep -iE 'orberg|ørberg|lingua latina|llpsi|familia romana' STORY_WORLD.md`
+Run a case-insensitive scan of `STORY_WORLD.md` for any source-textbook name or its author (the terms we keep out of the repo).
 Expected: no matches (empty output).
 
 - [ ] **Step 3: Commit**
@@ -168,7 +168,7 @@ Expected: every printed count ≤ 5.
 
 Manually confirm each chapter's cumulative count = previous cumulative + new count (5,10,14,18) and no word appears in a story beat before its chapter.
 
-Run: `grep -iE 'orberg|ørberg|lingua latina|llpsi|familia romana' CURRICULUM.md`
+Run a case-insensitive scan of `CURRICULUM.md` for any source-textbook name or its author (the terms we keep out of the repo).
 Expected: no matches.
 
 - [ ] **Step 4: Commit**
@@ -313,7 +313,7 @@ Confirm every character named in `CURRICULUM.md` story beats exists in `STORY_WO
 
 - [ ] **Step 4: Final source-book scan**
 
-Run: `grep -riE 'orberg|ørberg|lingua latina|llpsi|familia romana' CURRICULUM.md STORY_WORLD.md`
+Run a recursive case-insensitive scan of `CURRICULUM.md` and `STORY_WORLD.md` for any source-textbook name or its author (the terms we keep out of the repo).
 Expected: no matches.
 
 - [ ] **Step 5: Commit any fixes**
