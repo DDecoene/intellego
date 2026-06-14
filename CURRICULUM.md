@@ -34,28 +34,28 @@ as new vocabulary — this is how connected Latin reads naturally.
   - hīc — here (adverb)
 - **Cumulative vocabulary (5):** pistrīna, pānis, Gaius, est, hīc
 - **Comprehension target:** 90%
-- **Story beat:** We see the bakery. Gaius is here. The bread is here.
+- **Story beat:** Pistrīna est. Gaius hīc est. Pānis hīc est.
 
 ### Chapter 2 — The family
 - **Grammar concept:** More names; joining two facts.
 - **New vocabulary (5):** Tullia — Tullia (name); Lucius — Lucius (name); Aelia — Aelia (name); mater — mother (noun); pater — father (noun)
 - **Cumulative vocabulary (10):** pistrīna, pānis, Gaius, est, hīc, Tullia, Lucius, Aelia, mater, pater
 - **Comprehension target:** 90%
-- **Story beat:** Gaius is the father. Tullia is the mother. Lucius and Aelia are here.
+- **Story beat:** Gaius pater est. Tullia mater est. Lucius hīc est. Aelia hīc est.
 
 ### Chapter 3 — More than one
 - **Grammar concept:** Singular vs plural — *est* vs *sunt*.
 - **New vocabulary (4):** sunt — are (verb); puer — boy (noun); puella — girl (noun); canis — dog (noun)
 - **Cumulative vocabulary (14):** pistrīna, pānis, Gaius, est, hīc, Tullia, Lucius, Aelia, mater, pater, sunt, puer, puella, canis
 - **Comprehension target:** 88%
-- **Story beat:** Lucius is a boy. Aelia is a girl. Argus the dog is here too. The children are in the bakery.
+- **Story beat:** Lucius puer est. Aelia puella est. Canis hīc est. Gaius, Tullia, Lucius hīc sunt.
 
 ### Chapter 4 — Here and there
 - **Grammar concept:** Place contrast — *hīc* (here) vs *ibi* (there).
 - **New vocabulary (4):** Argus — Argus, the dog (name); ibi — there (adverb); fornāx — oven (noun); mēnsa — counter/table (noun)
 - **Cumulative vocabulary (18):** pistrīna, pānis, Gaius, est, hīc, Tullia, Lucius, Aelia, mater, pater, sunt, puer, puella, canis, Argus, ibi, fornāx, mēnsa
 - **Comprehension target:** 88%
-- **Story beat:** The oven is here. The counter is there. Argus is by the oven.
+- **Story beat:** Fornāx hīc est. Mēnsa ibi est. Argus ibi est. Canis ibi est.
 
 ## Section II — The Morning Work (Beginner)
 
@@ -71,7 +71,7 @@ as new vocabulary — this is how connected Latin reads naturally.
   - Felix — Felix, the young helper (name)
 - **Cumulative vocabulary (23):** pistrīna, pānis, Gaius, est, hīc, Tullia, Lucius, Aelia, mater, pater, sunt, puer, puella, canis, Argus, ibi, fornāx, mēnsa, facit, farinam, aquam, portat, Felix
 - **Comprehension target:** 90%
-- **Story beat:** Morning in the bakery. Gaius makes bread. Felix carries flour. Felix carries water. Gaius is here; Felix is here.
+- **Story beat:** Gaius pānem facit. Felix farinam portat. Felix aquam portat. Gaius hīc est. Felix hīc est.
 
 ### Chapter 6 — The oven cooks the bread
 - **Grammar concept:** The object — accusative singular (direct object of an action verb).
@@ -83,7 +83,7 @@ as new vocabulary — this is how connected Latin reads naturally.
   - bona — good (adjective, nom. sg. fem.)
 - **Cumulative vocabulary (28):** pistrīna, pānis, Gaius, est, hīc, Tullia, Lucius, Aelia, mater, pater, sunt, puer, puella, canis, Argus, ibi, fornāx, mēnsa, facit, farinam, aquam, portat, Felix, coquit, pānem, in, calida, bona
 - **Comprehension target:** 88%
-- **Story beat:** Gaius puts the bread in the oven. The oven is hot. The oven cooks the bread. The bread is good. Argus is there by the oven.
+- **Story beat:** Gaius pānem in fornāce coquit. Fornāx calida est. Pānis hīc est. Farina bona est.
 
 ### Chapter 7 — Who does what?
 - **Grammar concept:** "I / you / he" — three persons on a present-tense verb (*faciō*, *facis*, *facit*).
@@ -95,7 +95,7 @@ as new vocabulary — this is how connected Latin reads naturally.
   - vendit — he/she sells (verb, 3rd sg. present)
 - **Cumulative vocabulary (33):** pistrīna, pānis, Gaius, est, hīc, Tullia, Lucius, Aelia, mater, pater, sunt, puer, puella, canis, Argus, ibi, fornāx, mēnsa, facit, farinam, aquam, portat, Felix, coquit, pānem, in, calida, bona, faciō, facis, vendō, vendis, vendit
 - **Comprehension target:** 85%
-- **Story beat:** Gaius says: "I make bread. You carry flour, Felix." Tullia is at the counter. She sells bread. Lucius watches: "You sell bread, mater!"
+- **Story beat:** Gaius pānem facit; faciō pānem. Facis pānem, Felix? Tullia pānem vendit; vendō pānem. Vendis pānem, Tullia?
 
 ### Chapter 8 — One, two, many loaves
 - **Grammar concept:** Counting — cardinal numbers *ūnus*, *duo*, *multī* as noun modifiers.
@@ -106,7 +106,7 @@ as new vocabulary — this is how connected Latin reads naturally.
   - pānēs — loaves of bread (noun, nominative pl.)
 - **Cumulative vocabulary (37):** pistrīna, pānis, Gaius, est, hīc, Tullia, Lucius, Aelia, mater, pater, sunt, puer, puella, canis, Argus, ibi, fornāx, mēnsa, facit, farinam, aquam, portat, Felix, coquit, pānem, in, calida, bona, faciō, facis, vendō, vendis, vendit, ūnus, duo, multī, pānēs
 - **Comprehension target:** 88%
-- **Story beat:** The oven cooks one loaf, then two loaves. Gaius makes many loaves. Many loaves are on the counter. Tullia sells many loaves. It is a good morning in the bakery.
+- **Story beat:** Ūnus pānis hīc est. Duo pānēs ibi sunt. Gaius multōs pānēs facit. Multī pānēs in mēnsā sunt. Tullia pānēs vendit.
 
 ## Section III — At the Counter (Intermediate)
 
@@ -124,7 +124,7 @@ as new vocabulary — this is how connected Latin reads naturally.
   - clāmat — calls out / shouts (verb, 3rd sg. present)
 - **Cumulative vocabulary (44):** pistrīna, pānis, Gaius, est, hīc, Tullia, Lucius, Aelia, mater, pater, sunt, puer, puella, canis, Argus, ibi, fornāx, mēnsa, facit, farinam, aquam, portat, Felix, coquit, pānem, in, calida, bona, faciō, facis, vendō, vendis, vendit, ūnus, duo, multī, pānēs, quis, quid, -ne, vir, fēmina, venit, clāmat
 - **Comprehension target:** 83%
-- **Story beat:** A man and a woman come to the bakery. Tullia is at the counter. She calls out: "Quis venit? Quid est?" The man is here. The woman is here. Many loaves are on the counter. Tullia sells bread.
+- **Story beat:** Vir venit. Fēmina venit. Tullia clāmat: "Quis venit? Quid est?" Estne pānis hīc? Multī pānēs in mēnsā sunt. Tullia pānēs vendit.
 
 ### Chapter 10 — Into the bakery, to the counter
 - **Grammar concept:** Place prepositions — *in* (in/into), *ad* (to/towards), *ex* (out of/from) with the idea of location and direction.
@@ -137,7 +137,7 @@ as new vocabulary — this is how connected Latin reads naturally.
   - mēnsam — counter/table (noun, accusative sg.)
 - **Cumulative vocabulary (50):** pistrīna, pānis, Gaius, est, hīc, Tullia, Lucius, Aelia, mater, pater, sunt, puer, puella, canis, Argus, ibi, fornāx, mēnsa, facit, farinam, aquam, portat, Felix, coquit, pānem, in, calida, bona, faciō, facis, vendō, vendis, vendit, ūnus, duo, multī, pānēs, quis, quid, -ne, vir, fēmina, venit, clāmat, ad, ex, intrat, exit, Marcus, mēnsam
 - **Comprehension target:** 81%
-- **Story beat:** Marcus comes to the bakery. He enters the bakery. He walks to the counter — ad mēnsam. Argus exits from the bakery. Tullia is at the counter. Marcus is here. Many loaves are on the counter. Marcus calls out: "Bonusne est pānis?"
+- **Story beat:** Marcus venit. Marcus in pistrīnam intrat. Marcus ad mēnsam venit. Argus ex pistrīnā exit. Tullia ad mēnsam est. Marcus clāmat: "Quis hīc est?"
 
 ### Chapter 11 — Marcus asks; Tullia answers
 - **Grammar concept:** Simple two-line dialogue — direct speech with *inquit* ("says/said") and a second speaker responding.
@@ -151,7 +151,7 @@ as new vocabulary — this is how connected Latin reads naturally.
   - habet — has (verb, 3rd sg. present)
 - **Cumulative vocabulary (57):** pistrīna, pānis, Gaius, est, hīc, Tullia, Lucius, Aelia, mater, pater, sunt, puer, puella, canis, Argus, ibi, fornāx, mēnsa, facit, farinam, aquam, portat, Felix, coquit, pānem, in, calida, bona, faciō, facis, vendō, vendis, vendit, ūnus, duo, multī, pānēs, quis, quid, -ne, vir, fēmina, venit, clāmat, ad, ex, intrat, exit, Marcus, mēnsam, inquit, dō, dat, grātiās, duōs, pecūniam, habet
 - **Comprehension target:** 80%
-- **Story beat:** Marcus is at the counter. "Dā mihi pānem!" inquit Marcus. Tullia says: "Bonusne est pānis? Bona sunt multī pānēs!" Marcus has money. He gives money to Tullia. Tullia gives two loaves to Marcus. "Grātiās," inquit Marcus. "Grātiās," inquit Tullia.
+- **Story beat:** Marcus pecūniam habet. Marcus pecūniam dat. "Pānem dō," inquit Tullia. Tullia duōs pānēs dat. "Grātiās," inquit Marcus.
 
 ### Chapter 12 — I want bread!
 - **Grammar concept:** Wanting and needing — first and third person of *velle* (to want) and *cupere* (to desire/wish for).
@@ -166,7 +166,7 @@ as new vocabulary — this is how connected Latin reads naturally.
   - nōn — not (adverb)
 - **Cumulative vocabulary (65):** pistrīna, pānis, Gaius, est, hīc, Tullia, Lucius, Aelia, mater, pater, sunt, puer, puella, canis, Argus, ibi, fornāx, mēnsa, facit, farinam, aquam, portat, Felix, coquit, pānem, in, calida, bona, faciō, facis, vendō, vendis, vendit, ūnus, duo, multī, pānēs, quis, quid, -ne, vir, fēmina, venit, clāmat, ad, ex, intrat, exit, Marcus, mēnsam, inquit, dō, dat, grātiās, duōs, pecūniam, habet, vult, volō, cupit, cupiō, bonum, emere, emit, nōn
 - **Comprehension target:** 78%
-- **Story beat:** Marcus vult pānem bonum. "Cupiō duōs pānēs," inquit Marcus. The woman also comes to the counter. She too wants bread. "Volō pānem," inquit fēmina. She has money and buys one loaf. Argus is here — Argus cupit pānem! "Nōn," inquit Gaius. Lucius and Aelia clāmant: "Multī pānēs sunt — bona pistrīna est!"
+- **Story beat:** Marcus pānem bonum vult. "Pānem volō," inquit Marcus. "Pānem emere cupiō." Marcus pānem emit. Argus pānem cupit. "Nōn!" clāmat Gaius.
 
 ## Section IV — A Problem in the Shop (Intermediate)
 
@@ -196,7 +196,7 @@ as new vocabulary — this is how connected Latin reads naturally.
   - calidus — hot (adjective, nom. sg. masc.)
 - **Cumulative vocabulary (77):** pistrīna, pānis, Gaius, est, hīc, Tullia, Lucius, Aelia, mater, pater, sunt, puer, puella, canis, Argus, ibi, fornāx, mēnsa, facit, farinam, aquam, portat, Felix, coquit, pānem, in, calida, bona, faciō, facis, vendō, vendis, vendit, ūnus, duo, multī, pānēs, quis, quid, -ne, vir, fēmina, venit, clāmat, ad, ex, intrat, exit, Marcus, mēnsam, inquit, dō, dat, grātiās, duōs, pecūniam, habet, vult, volō, cupit, cupiō, bonum, emere, emit, nōn, magnus, magna, magnī, parvus, parva, parvī, bonus, malus, mala, malum, frīgida, calidus
 - **Comprehension target:** 78%
-- **Story beat:** Fornāx calida est. Aqua frīgida est. Pānis bonus est. Farina mala est — and bad flour makes bad bread.
+- **Story beat:** Fornāx calida est. Aqua frīgida est. Pānis bonus est. Farina mala est.
 
 ### Chapter 15 — What happened
 - **Grammar concept:** Talking about what happened — the simple past (perfect) of familiar verbs.
