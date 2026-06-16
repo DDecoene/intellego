@@ -1,0 +1,33 @@
+import { describe, it, expect } from "vitest";
+import { render, screen } from "@testing-library/react";
+import { SectionTrail } from "./SectionTrail";
+import type { SectionEntry } from "@/content/sections";
+
+const section: SectionEntry = {
+  numeral: "II",
+  titleLatin: "In Forō",
+  chapters: [
+    { id: "ch6", numeral: "VI" },
+    { id: "ch7", numeral: "VII" },
+  ],
+};
+
+describe("SectionTrail", () => {
+  it("renders the Latin header with numeral and title", () => {
+    render(<SectionTrail section={section} />);
+    expect(screen.getByText(/In Forō/)).toBeInTheDocument();
+    expect(screen.getByText(/II/)).toBeInTheDocument();
+  });
+
+  it("renders one linked node per chapter", () => {
+    render(<SectionTrail section={section} />);
+    expect(screen.getByRole("link", { name: "VI" })).toHaveAttribute("href", "/read/ch6");
+    expect(screen.getByRole("link", { name: "VII" })).toHaveAttribute("href", "/read/ch7");
+  });
+
+  it("alternates node sides starting on the left", () => {
+    render(<SectionTrail section={section} />);
+    expect(screen.getByRole("link", { name: "VI" })).toHaveAttribute("data-side", "left");
+    expect(screen.getByRole("link", { name: "VII" })).toHaveAttribute("data-side", "right");
+  });
+});
