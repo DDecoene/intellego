@@ -10,8 +10,9 @@ export type SectionEntry = {
 };
 
 // Scaffolded seed. Sections I–II of the curriculum. Only ch6 is authored today;
-// the other ids are valid routes that render the existing not-found state until
-// their content is written. Grow this manifest as chapters are authored.
+// the other ids are valid routes that render the Latin "not ready" state
+// (ChapterNotReady) until their content is written. Grow this manifest as
+// chapters are authored.
 const sections: SectionEntry[] = [
   {
     numeral: "I",
@@ -36,5 +37,5 @@ const sections: SectionEntry[] = [
 ];
 
 export function getSections(): SectionEntry[] {
-  return sections;
+  return [...sections];
 }

@@ -22,13 +22,13 @@ describe("SectionTrail", () => {
 
   it("renders one linked node per chapter", () => {
     render(<SectionTrail section={section} />);
-    expect(screen.getByRole("link", { name: "VI" })).toHaveAttribute("href", "/read/ch6");
-    expect(screen.getByRole("link", { name: "VII" })).toHaveAttribute("href", "/read/ch7");
+    expect(screen.getByRole("link", { name: "Capitulum VI" })).toHaveAttribute("href", "/read/ch6");
+    expect(screen.getByRole("link", { name: "Capitulum VII" })).toHaveAttribute("href", "/read/ch7");
   });
 
   it("alternates node sides starting on the left", () => {
     render(<SectionTrail section={section} />);
-    expect(screen.getByRole("link", { name: "VI" })).toHaveAttribute("data-side", "left");
-    expect(screen.getByRole("link", { name: "VII" })).toHaveAttribute("data-side", "right");
+    expect(screen.getByRole("link", { name: "Capitulum VI" })).toHaveAttribute("data-side", "left");
+    expect(screen.getByRole("link", { name: "Capitulum VII" })).toHaveAttribute("data-side", "right");
   });
 });

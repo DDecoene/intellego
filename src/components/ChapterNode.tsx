@@ -13,7 +13,7 @@ export function ChapterNode({
     <Link
       href={`/read/${id}`}
       data-side={side}
-      aria-label={numeral}
+      aria-label={`Capitulum ${numeral}`}
       className={
         "flex h-14 w-14 items-center justify-center rounded-full " +
         "border-[3px] border-[var(--gold)] bg-[var(--parchment-deep)] " +
