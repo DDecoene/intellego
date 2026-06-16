@@ -43,3 +43,7 @@ next-env.d.ts
 # Brainstorming visual companion
 .superpowers/
 .playwright-mcp/
+
+# Verification screenshots
+read-*.png
+*-screenshot.png
