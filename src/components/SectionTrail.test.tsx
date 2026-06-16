@@ -15,8 +15,9 @@ const section: SectionEntry = {
 describe("SectionTrail", () => {
   it("renders the Latin header with numeral and title", () => {
     render(<SectionTrail section={section} />);
-    expect(screen.getByText(/In Forō/)).toBeInTheDocument();
-    expect(screen.getByText(/II/)).toBeInTheDocument();
+    const heading = screen.getByRole("heading", { level: 2 });
+    expect(heading).toHaveTextContent("II");
+    expect(heading).toHaveTextContent("In Forō");
   });
 
   it("renders one linked node per chapter", () => {
