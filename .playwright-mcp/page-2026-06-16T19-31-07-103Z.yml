@@ -1,0 +1,17 @@
+- generic [ref=e1]:
+  - generic [ref=e2]:
+    - banner [ref=e3]:
+      - generic [ref=e4]: Intellego
+      - generic [ref=e5]:
+        - button "scene" [ref=e6]: 📖
+        - button "immersive" [active] [ref=e7]: 🎬
+    - paragraph [ref=e30]:
+      - button "Gaius" [ref=e31]
+      - button "pānem" [ref=e32]
+      - button "in" [ref=e33]
+      - button "fornāce" [ref=e34]
+      - button "coquit" [ref=e35]
+      - text: .
+  - button "Open Next.js Dev Tools" [ref=e23] [cursor=pointer]:
+    - img [ref=e24]
+  - alert [ref=e27]

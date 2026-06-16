@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="120" height="120" role="img">
+  <!-- a loaf baking, with rising heat shimmer -->
+  <rect x="20" y="84" width="80" height="12" rx="6" fill="#7c5630"/>
+  <ellipse cx="60" cy="80" rx="38" ry="20" fill="#cf8f49"/>
+  <ellipse cx="60" cy="74" rx="38" ry="18" fill="#e8b46b"/>
+  <g fill="none" stroke="#d98a3d" stroke-width="4" stroke-linecap="round" opacity="0.8">
+    <path d="M44 54 q-6 -10 0 -20 q6 -10 0 -20">
+      <animate attributeName="opacity" values="0.2;0.9;0.2" dur="1.6s" repeatCount="indefinite"/>
+    </path>
+    <path d="M60 50 q-6 -10 0 -20 q6 -10 0 -20">
+      <animate attributeName="opacity" values="0.9;0.2;0.9" dur="1.6s" repeatCount="indefinite"/>
+    </path>
+    <path d="M76 54 q-6 -10 0 -20 q6 -10 0 -20">
+      <animate attributeName="opacity" values="0.4;0.9;0.4" dur="1.6s" begin="0.4s" repeatCount="indefinite"/>
+    </path>
+  </g>
+</svg>

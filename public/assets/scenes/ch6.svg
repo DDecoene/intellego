@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 480" width="800" height="480" role="img">
+  <defs>
+    <linearGradient id="wall" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#caa978"/>
+      <stop offset="1" stop-color="#a9844f"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.7" cy="0.62" r="0.5">
+      <stop offset="0" stop-color="#ffcf7a" stop-opacity="0.9"/>
+      <stop offset="1" stop-color="#ffcf7a" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="floor" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#7c5a35"/>
+      <stop offset="1" stop-color="#5e4226"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="480" fill="url(#wall)"/>
+  <rect y="360" width="800" height="120" fill="url(#floor)"/>
+  <!-- window light -->
+  <rect x="60" y="60" width="150" height="170" rx="8" fill="#f0d9a8" opacity="0.5"/>
+  <line x1="135" y1="60" x2="135" y2="230" stroke="#a9844f" stroke-width="6"/>
+  <line x1="60" y1="145" x2="210" y2="145" stroke="#a9844f" stroke-width="6"/>
+  <!-- oven -->
+  <rect x="470" y="210" width="270" height="200" rx="20" fill="#6e4a2a"/>
+  <rect x="470" y="210" width="270" height="40" rx="20" fill="#7c5630"/>
+  <ellipse cx="605" cy="320" rx="78" ry="66" fill="#2b1b10"/>
+  <ellipse cx="605" cy="335" rx="60" ry="40" fill="url(#glow)"/>
+  <!-- flames -->
+  <path d="M590 360 q-14 -34 10 -52 q-4 22 12 24 q14 -10 6 -30 q26 18 16 50 q-6 18 -24 22 q-18 2 -26 -14z" fill="#e8702a"/>
+  <path d="M600 360 q-8 -22 8 -34 q-2 14 8 16 q8 -8 4 -20 q16 14 8 36z" fill="#ffc24d"/>
+  <!-- counter with loaves -->
+  <rect x="70" y="320" width="320" height="36" rx="8" fill="#8a6336"/>
+  <rect x="70" y="356" width="320" height="54" fill="#6b4a28"/>
+  <ellipse cx="150" cy="318" rx="40" ry="20" fill="#d99b52"/>
+  <ellipse cx="150" cy="312" rx="40" ry="18" fill="#e8b46b"/>
+  <ellipse cx="245" cy="318" rx="40" ry="20" fill="#d99b52"/>
+  <ellipse cx="245" cy="312" rx="40" ry="18" fill="#e8b46b"/>
+  <ellipse cx="320" cy="320" rx="30" ry="15" fill="#cf8f49"/>
+  <!-- grain texture dots -->
+  <g fill="#3a2f22" opacity="0.06">
+    <circle cx="120" cy="120" r="3"/><circle cx="360" cy="180" r="3"/><circle cx="700" cy="120" r="3"/>
+    <circle cx="250" cy="430" r="3"/><circle cx="520" cy="440" r="3"/><circle cx="430" cy="90" r="3"/>
+  </g>
+</svg>

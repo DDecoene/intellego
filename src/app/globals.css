@@ -1,0 +1,47 @@
+@import "tailwindcss";
+
+:root {
+  /* Warm Roman bakery — parchment, terracotta, ember */
+  --parchment: #f3e9d6;
+  --parchment-deep: #e7d8ba;
+  --ink: #3a2f22;
+  --stone: #6b5b3e;
+  --terracotta: #b4592f;
+  --terracotta-deep: #8c3f1f;
+  --ember: #d98a3d;
+  --gold: #d8b97f;
+}
+
+@theme inline {
+  --color-parchment: var(--parchment);
+  --color-parchment-deep: var(--parchment-deep);
+  --color-ink: var(--ink);
+  --color-stone: var(--stone);
+  --color-terracotta: var(--terracotta);
+  --color-ember: var(--ember);
+  --color-gold: var(--gold);
+  --font-display: var(--font-display);
+  --font-body: var(--font-body);
+}
+
+body {
+  /* layered parchment: warm wash + faint grain dots */
+  background-color: var(--parchment);
+  background-image:
+    radial-gradient(circle at 18% 12%, rgba(217, 138, 61, 0.14), transparent 42%),
+    radial-gradient(circle at 88% 78%, rgba(180, 89, 47, 0.12), transparent 46%),
+    radial-gradient(rgba(58, 47, 34, 0.05) 1px, transparent 1px);
+  background-size: auto, auto, 22px 22px;
+  color: var(--ink);
+  font-family: var(--font-body), Georgia, serif;
+}
+
+.font-display {
+  font-family: var(--font-display), Georgia, serif;
+}
+
+@keyframes rise {
+  from { opacity: 0; transform: translateY(10px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+.animate-rise { animation: rise 0.45s cubic-bezier(0.2, 0.7, 0.2, 1) both; }
