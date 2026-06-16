@@ -1,0 +1,23 @@
+- generic [ref=e1]:
+  - generic [ref=e2]:
+    - banner [ref=e3]:
+      - generic [ref=e4]: Intellego
+      - generic [ref=e5]:
+        - button "scene" [ref=e6]: 📖
+        - button "immersive" [ref=e7]: 🎬
+    - generic [ref=e29]:
+      - paragraph [ref=e30]:
+        - button "Gaius" [ref=e31]
+        - button "pānem" [ref=e32]
+        - button "in" [ref=e33]
+        - button "fornāce" [active] [ref=e34]
+        - button "coquit" [ref=e35]
+        - text: .
+      - generic [ref=e37]:
+        - img "fornāce" [ref=e39]
+        - generic [ref=e40]:
+          - generic [ref=e41]: fornāce
+          - button "🔊" [ref=e42]
+  - button "Open Next.js Dev Tools" [ref=e23] [cursor=pointer]:
+    - img [ref=e24]
+  - alert [ref=e27]

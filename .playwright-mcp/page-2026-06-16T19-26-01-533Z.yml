@@ -1,0 +1,22 @@
+- generic [ref=e1]:
+  - generic [ref=e2]:
+    - generic [ref=e3]:
+      - button "scene" [ref=e4]: 📖
+      - button "immersive" [ref=e5]: 🎬
+    - generic [ref=e6]:
+      - img "scaena" [ref=e7]
+      - paragraph [ref=e9]:
+        - button "Gaius" [ref=e10]
+        - button "pānem" [ref=e11]
+        - button "in" [ref=e12]
+        - button "fornāce" [active] [ref=e13]
+        - button "coquit" [ref=e14]
+        - text: .
+      - generic [ref=e26]:
+        - img "fornāce" [ref=e27]
+        - generic [ref=e28]:
+          - generic [ref=e29]: fornāce
+          - button "🔊" [ref=e30]
+  - button "Open Next.js Dev Tools" [ref=e20] [cursor=pointer]:
+    - img [ref=e21]
+  - alert [ref=e24]
